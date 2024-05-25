@@ -25,7 +25,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://petrkanapelka.github.io/homework-front-main"
+  "homepage": "https://petrkanapelka.github.io/homework-front-main",
   "eslintConfig": {
     "extends": [
       "react-app",
